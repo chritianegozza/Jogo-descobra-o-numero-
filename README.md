@@ -2,6 +2,8 @@
 Jogo  desenvolvido para android ainda em fase se criação
 
 
+![image](https://user-images.githubusercontent.com/72118415/123212616-671e7200-d49b-11eb-9284-2fa082a6fb0a.png)
+![image](https://user-images.githubusercontent.com/72118415/123212708-83221380-d49b-11eb-8093-b197475851d2.png)
 
 
 Jogo descubra o número   Android 
